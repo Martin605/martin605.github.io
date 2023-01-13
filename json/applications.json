@@ -1,0 +1,32 @@
+{
+    "Applications" : [
+        {
+            "name" : {
+                "en" : "Live Chat Room Popup",
+                "zh-TW" : "浮動聊天室"
+            },
+            "url" : "/application/Live-Chat-Popup/"
+        },
+        {
+            "name" : {
+                "en" : "Subtitle Colour Convertor(Base On Speaker)",
+                "zh-TW" : "字幕顏色轉換器"
+            },
+            "url" : "https://martin605.github.io/Subtitle-Speaker-Colour-Convertor/"
+        },
+        {
+            "name" : {
+                "en" : "Webcam Web Player",
+                "zh-TW" : "網路攝影機網頁播放器"
+            },
+            "url" : "https://martin605.github.io/Webcam-Player/"
+        },
+        {
+            "name" : {
+                "en" : "Taiwan Payment Common QR Code Generator",
+                "zh-TW" : "台灣共通支付QR Code生成器"
+            },
+            "url" : "https://martin605.github.io/QR-Code-Generator/TW-pay/"
+        }
+    ]
+}
