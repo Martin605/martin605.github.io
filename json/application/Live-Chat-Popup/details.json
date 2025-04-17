@@ -4,12 +4,12 @@
             "title": null,
             "details": [{
                     "type": "store-image",
-                    "source": "https://martin605.github.io/img/application/Live-Chat-Popup/chrome_web_store_branding.png",
+                    "source": "https://martin605.github.io/img/chrome_web_store_branding.png",
                     "url": "https://chrome.google.com/webstore/detail/live-chat-room-popup/ghjbfgalckfjahifekchinpjelfeiokk"
                 },
                 {
                     "type": "store-card",
-                    "icon-source": "https://martin605.github.io/img/application/Live-Chat-Popup/Microsoft-Edge-Icon.png",
+                    "icon-source": "https://martin605.github.io/Live-Chat-Popup/img/Microsoft-Edge-Icon.png",
                     "title": {
                         "en": "Extension for",
                         "zh-TW": "擴充功能於"
