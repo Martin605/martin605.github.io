@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.b1f945ae15dfb33ca54b3564c61bd66d.js"
+  "/precache-manifest.f0146798d175721611cd0b99f683c249.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "martin605"});
