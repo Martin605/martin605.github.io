@@ -1,5 +1,9 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
+    "revision": "822d4e9583e98f742d0ee927e0495eb3",
+    "url": "/404.html"
+  },
+  {
     "revision": "cfca0df31eaac5375288",
     "url": "/css/chunk-595604a0.21f8e897.css"
   },
@@ -18,6 +22,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "671995cb4d6799f6880239a2ec48cd70",
     "url": "/img/application/Live-Chat-Popup/Microsoft-Edge-Icon.png"
+  },
+  {
+    "revision": "d554d50717e1911ec4a4d561feec8eeb",
+    "url": "/img/application/Live-Chat-Popup/chrome_web_store_branding.png"
   },
   {
     "revision": "d034b7ec1aefa393acb641ef57181acf",
@@ -76,7 +84,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/chunk-vendors.8afc2d72.js"
   },
   {
-    "revision": "9e0b5dc52ad6e93c2fb9eda2268702a5",
+    "revision": "4b629cbfa1688454ba6fea5ad52f88b7",
     "url": "/json/application/Live-Chat-Popup/details.json"
   },
   {
