@@ -1,7 +1,62 @@
 {
     "name": {
         "en": "Live Chat Room Popup",
-        "zh-TW": "浮動聊天室"
+        "zhHant": "浮動聊天室"
     },
-    "url": "/application/Live-Chat-Popup"
+    "store": [
+        {
+            "branding": "https://martin605.github.io/img/application/Live-Chat-Popup/chrome_web_store_branding.png",
+            "url": "https://chrome.google.com/webstore/detail/live-chat-room-popup/ghjbfgalckfjahifekchinpjelfeiokk"
+        },
+        {
+            "branding": {
+                "title": {
+                    "en": "Extension for",
+                    "zhHant": "擴充功能於"
+                },
+                "icon": "mdi-microsoft-edge",
+                "store": "Microsoft Edge"
+            },
+            "url": "https://microsoftedge.microsoft.com/addons/detail/lfbknbihobdoolcafgapgdmdofjplgfb"
+        }
+    ],
+    "features": {
+        "en": "Live Chat Popup can let you add a Chat Room Popup on Twitch or YouTube live video, even in full screen mode.",
+        "zhHant": "浮動聊天室可在Twitch或YouTube直播上新增一個浮動聊天室，即使在全螢幕模式下也可使用。"
+    },
+    "more_btn": [
+        {
+            "type": "help_center",
+            "icon": "mdi-information-variant-circle",
+            "url": "/application/Live-Chat-Popup/help"
+        },
+        {
+            "type": "report_problem",
+            "icon": "mdi-comment-alert",
+            "url": "https://chrome.google.com/webstore/detail/chat-room-popup-tool/ghjbfgalckfjahifekchinpjelfeiokk/support"
+        }
+    ],
+    "images": [
+        {
+            "source": "/img/application/Live-Chat-Popup/sample1.png",
+            "title": {
+                "en": "YouTube",
+                "zhHant": "YouTube"
+            }
+        },
+        {
+            "source": "/img/application/Live-Chat-Popup/sample2.png",
+            "title": {
+                "en": "On YouTube fullscreen",
+                "zhHant": "YouTube全螢幕模式"
+            }
+        },
+        {
+            "source": "/img/application/Live-Chat-Popup/sample3.png",
+            "title": {
+                "en": "Twitch",
+                "zhHant": "Twitch"
+            }
+        }
+    ]
 }

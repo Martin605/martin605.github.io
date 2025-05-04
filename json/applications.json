@@ -3,30 +3,34 @@
         {
             "name" : {
                 "en" : "Live Chat Room Popup",
-                "zh-TW" : "浮動聊天室"
+                "zhHant" : "浮動聊天室"
             },
-            "url" : "/application/Live-Chat-Popup/"
+            "url" : "/application/Live-Chat-Popup/",
+            "icon": "mdi-message-text"
         },
         {
             "name" : {
                 "en" : "Subtitle Colour Convertor(Base On Speaker)",
-                "zh-TW" : "字幕顏色轉換器"
+                "zhHant" : "字幕顏色轉換器"
             },
-            "url" : "https://martin605.github.io/Subtitle-Speaker-Colour-Convertor/"
+            "url" : "https://martin605.github.io/Subtitle-Speaker-Colour-Convertor/",
+            "icon": "mdi-subtitles"
         },
         {
             "name" : {
                 "en" : "Webcam Web Player",
-                "zh-TW" : "網路攝影機網頁播放器"
+                "zhHant" : "網路攝影機網頁播放器"
             },
-            "url" : "https://martin605.github.io/Webcam-Player/"
+            "url" : "https://martin605.github.io/Webcam-Player/",
+            "icon": "mdi-webcam"
         },
         {
             "name" : {
                 "en" : "Taiwan Payment Common QR Code Generator",
-                "zh-TW" : "台灣共通支付QR Code生成器"
+                "zhHant" : "台灣共通支付QR Code生成器"
             },
-            "url" : "https://martin605.github.io/QR-Code-Generator/TW-pay/"
+            "url" : "https://martin605.github.io/QR-Code-Generator/TW-pay/",
+            "icon": "mdi-qrcode-scan"
         }
     ]
 }

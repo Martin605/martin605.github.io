@@ -3,25 +3,25 @@
         "type": "title",
         "title": {
             "en": "Help Center",
-            "zh-TW": "幫助中心"
+            "zhHant": "幫助中心"
         }
     }, {
         "type": "card",
         "col": 12,
         "title": {
             "en": "What is the usage of this tool?",
-            "zh-TW": "這個工具有什麼用?"
+            "zhHant": "這個工具有什麼用?"
         },
         "body": {
             "en": "Live Chat Popup can let you add a Chat Room Popup on Twitch or YouTube live video, even in full screen mode.",
-            "zh-TW": "浮動聊天室可在Twitch或YouTube直播上新增一個浮動聊天室，即使在全螢幕模式下也可使用。"
+            "zhHant": "浮動聊天室可在Twitch或YouTube直播上新增一個浮動聊天室，即使在全螢幕模式下也可使用。"
         }
     }, {
         "type": "card-group",
         "col": 12,
         "title": {
             "en": "Where can use this tool?",
-            "zh-TW": "可以在哪裡使用?"
+            "zhHant": "可以在哪裡使用?"
         },
         "details": [{
             "type": "list",
@@ -29,22 +29,22 @@
             "title": null,
             "items": [{
                     "en": "Twitch",
-                    "zh-TW": "Twitch"
+                    "zhHant": "Twitch"
                 },
                 [{
                     "en": "Live",
-                    "zh-TW": "直播"
+                    "zhHant": "直播"
                 }],
                 {
                     "en": "Youtube",
-                    "zh-TW": "Youtube"
+                    "zhHant": "Youtube"
                 },
                 [{
                     "en": "Live",
-                    "zh-TW": "直播"
+                    "zhHant": "直播"
                 }, {
                     "en": "Premieres",
-                    "zh-TW": "首播"
+                    "zhHant": "首播"
                 }]
             ]
         }]
@@ -53,7 +53,7 @@
         "col": 12,
         "title": {
             "en": "How to use it?",
-            "zh-TW": "如何使用?"
+            "zhHant": "如何使用?"
         },
         "details": [{
             "type": "paragraph",
@@ -61,7 +61,7 @@
             "col": 12,
             "body": {
                 "en": "1. Click the application icon first.",
-                "zh-TW": "1. 首先，點擊應用程序的圖示。"
+                "zhHant": "1. 首先，點擊應用程序的圖示。"
             }
         }, {
             "type": "image",
@@ -74,7 +74,7 @@
             "col": 12,
             "body": {
                 "en": "2. Select the popup that you want.",
-                "zh-TW": "2. 選擇你想要的模式。"
+                "zhHant": "2. 選擇你想要的模式。"
             }
         }, {
             "type": "image",
@@ -87,7 +87,7 @@
             "col": 12,
             "body": {
                 "en": "If you get bugs on adding popup, you can click reset and try aging to add the popup.",
-                "zh-TW": "如果你在添加浮動聊天室時遇到錯誤，你可以點擊 重置 然後重新嘗試添加。"
+                "zhHant": "如果你在添加浮動聊天室時遇到錯誤，你可以點擊 重置 然後重新嘗試添加。"
             }
         }, {
             "type": "paragraph",
@@ -95,7 +95,7 @@
             "col": 12,
             "body": {
                 "en": "If problem is not solved, please report the problem to us.",
-                "zh-TW": "如果問題仍未解決，請向我們回報問題。"
+                "zhHant": "如果問題仍未解決，請向我們回報問題。"
             }
         }]
     }]
